@@ -33,7 +33,6 @@ function Dalle() {
   return (
     <div className='flex justify-center items-center'>
       <div className='md:w-[720px] w-screen h-full p-4'>
-        <div className='text-3xl text-center'>Artificial Image with DALL·E</div>
         <div className='flex my-4'>
           <input
             type='text'
